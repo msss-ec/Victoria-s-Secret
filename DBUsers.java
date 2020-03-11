@@ -1,4 +1,4 @@
 Hi Ismail
 
 Welcome to GITHUB
-updated in qa branch
+updated in QA branch
